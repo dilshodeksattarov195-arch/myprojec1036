@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteelete",
+        "uuid": 3291372,
+        "checksum": "2h77vr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
